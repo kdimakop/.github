@@ -6,9 +6,7 @@ This is the GitHub Organization site for EXPANSE's WP3, where we can share and d
 
 >**Important**: Confidential data should not be stored in GitHub and therefore should not be version controlled. Make sure the possibly sensitive data files that are inside the repository are included in your .gitignore file. Contact the GitHub Organization's maintainer when in doubt.
 
-Each analysis should have its own repository within the Organization.
-
-Consider choosing a short and informative name for your repository.
+Each analysis should have its own repository within the Organization. Consider choosing a short and informative name for your repository.
 
 ### Creating a new repository
 
