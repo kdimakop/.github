@@ -14,7 +14,7 @@ Consider choosing a short and informative name for your repository.
 
 ### Creating a new repository
 
-1. Create a new private GitHub repo in this organization using the available template at [repo-template](). It contains a .gitignore file with common data folders and file formats which makes sure these files are not tracked. Any sensitive files within the repository not covered by the template's .gitignore should added.
+1. Create a new private GitHub repo in this organization using the available template at [repo-template](https://github.com/expanse-wp-3/repo-template). It contains a .gitignore file with common data folders and file formats which makes sure these files are not tracked. Any sensitive files within the repository not covered by the template's .gitignore should added.
 
 2. Clone this remote repository inside the appropriate folder in your machine. If using RStudio, use *`File > New Project > Version Control > Git`*.
 
