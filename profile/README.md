@@ -11,6 +11,16 @@ This is the GitHub Organization site for EXPANSE's WP3, where we can share and d
 | 3     | External exposome and stroke risk across Europe                                                | KI          | December 2022 |                                                              |
 | 4     | Evaluating interplay between urban exposome specific exposures on total mortality              | Greece      | October  2022 |                                                              |
 
+## Results
+
+Below you can see which cohorts have provided the most up to date results for each paper:
+
+| Cohort    | Paper 1            | Paper 2 | Paper 3 | Paper 4 |
+|-----------|--------------------|---------|---------|---------|
+| Catalonia | :heavy_check_mark: |         |         | :x:     |
+| KORA      | :heavy_check_mark: |         |         |         |
+
+
 ## Getting Started
 
 Each analysis should have its own repository within the Organization. Consider choosing a short and informative name for your repository.
