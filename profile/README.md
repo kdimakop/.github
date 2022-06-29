@@ -4,11 +4,12 @@ This is the GitHub Organization site for EXPANSE's WP3, where we can share and d
 
 ## Papers
 
-1. Socioeconomic inequalities in urban exposome patterns across the life span in European cohorts (leaded by ISGlobal)
-2. External exposome and mortality across Europe (leaded by Rome-Greece)
-3. External exposome with stroke risk across Europe (leaded by KI)
-4. Evaluating interplay between urban exposome specific exposures on total mortality (leaded by Greece)
-5. Methodological paper on LASSO approach (leaded by Imperial)
+| Paper | Repository                                                   | Title                                                                                          | Lead        | Submission |
+|-------|--------------------------------------------------------------|------------------------------------------------------------------------------------------------|-------------|------------|
+| 1     | [SO_pca-pilot](https://github.com/expanse-wp-3/SO_pca-pilot) | Socioeconomic inequalities in urban exposome patterns across the life span in European cohorts | ISGlobal    | December   |
+| 2     |                                                              | External exposome and mortality across Europe                                                  | Rome-Greece | December   |
+| 3     |                                                              | External exposome and stroke risk across Europe                                                | KI          | December   |
+| 4     |                                                              | Evaluating interplay between urban exposome specific exposures on total mortality              | Greece      | October    |
 
 ## Getting Started
 
