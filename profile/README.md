@@ -28,7 +28,7 @@ Below you can see which cohorts have provided the most up to date results for ea
 | Switzerland |                    |         |         |                     |
 | SIMSAM      |                    |         |         |                     |
 | Netherlands |                    |         |         |                     |
-|-------------|--------------------|---------|---------|---------------------|
+
 
 ## Getting Started
 
