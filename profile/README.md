@@ -15,11 +15,20 @@ This is the GitHub Organization site for EXPANSE's WP3, where we can share and d
 
 Below you can see which cohorts have provided the most up to date results for each paper:
 
-| Cohort    | Paper 1            | Paper 2 | Paper 3 | Paper 4 |
-|-----------|--------------------|---------|---------|---------|
-| Catalonia | :heavy_check_mark: |         |         | :x:     |
-| KORA      | :heavy_check_mark: |         |         |         |
-
+| Cohort      | Paper 1            | Paper 2 | Paper 3 | Paper 4             |
+|-------------|--------------------|---------|---------|---------------------|
+| Adult cohorts:                                                             |
+| KORA        | :heavy_check_mark: |         |         |                     |
+| CEANS       | :heavy_check_mark: |         |         | :heavy_check_mark:  |
+| EPIC-NL     |                    |         |         |                     |
+| Admin cohorts:                                                             |
+| Catalonia   | :heavy_check_mark: |         |         | :x:                 |
+| Greece      |                    |         |         |                     |
+| Rome        |                    |         |         |                     |
+| Switzerland |                    |         |         |                     |
+| SIMSAM      |                    |         |         |                     |
+| Netherlands |                    |         |         |                     |
+|-------------|--------------------|---------|---------|---------------------|
 
 ## Getting Started
 
