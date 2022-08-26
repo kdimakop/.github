@@ -1,7 +1,5 @@
 # Welcome
 
-This is a line written with RStudio.
-
 This is the GitHub Organization site for EXPANSE's WP3, where we can share and discuss code for the different analyses within the group.
 
 ## Papers
