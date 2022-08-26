@@ -8,7 +8,7 @@ This is the GitHub Organization site for EXPANSE's WP3, where we can share and d
 |-------|------------------------------------------------------------------------------------------------|-------------|---------------|--------------------------------------------------------------|
 | 1     | Socioeconomic inequalities in urban exposome patterns across the life span in European cohorts | ISGlobal    | December 2022 | [SO_pca-pilot](https://github.com/expanse-wp-3/SO_pca-pilot) |
 | 2     | External exposome and mortality across Europe                                                  | Rome-Greece | December 2022 |                                                              |
-| 3     | External exposome and stroke risk across Europe                                                | KI          | December 2022 | 
+| 3     | External exposome and stroke risk across Europe                                                | KI          | December 2022 | [Paper3_stroke](https://github.com/expanse-wp-3/paper3_stroke) |
 | 4     | Evaluating interplay between urban exposome specific exposures on total mortality              | Greece      | October  2022 |                                                              |
 
 ## Results
