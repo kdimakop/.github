@@ -19,7 +19,7 @@ Below you can see which cohorts have provided the most up to date results for ea
 |-------------|--------------------|---------|---------|---------------------|
 | Adult cohorts:                                                             |
 | KORA        | :heavy_check_mark: | :heavy_check_mark:        | :heavy_check_mark:        |                     |
-| CEANS       | :heavy_check_mark: |         |         | :heavy_check_mark:  |
+| CEANS       | :heavy_check_mark: | :heavy_check_mark:        | :heavy_check_mark:        | :heavy_check_mark:  |
 | EPIC-NL     |                    |         |         |                     |
 | Admin cohorts:                                                             |
 | Catalonia   | :heavy_check_mark: |         |         | :x:                 |
