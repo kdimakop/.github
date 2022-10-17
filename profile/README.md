@@ -18,16 +18,16 @@ Below you can see which cohorts have provided the most up to date results for ea
 | Cohort      | Paper 1            | Paper 2 | Paper 3 | Paper 4             |
 |-------------|--------------------|---------|---------|---------------------|
 | Adult cohorts:                                                             |
-| KORA        | :heavy_check_mark:, check PCA and redo analyses | :heavy_check_mark:        | :heavy_check_mark:        |                     |
+| KORA        | :heavy_check_mark: | :heavy_check_mark:, check PCA and redo analyses        | :heavy_check_mark:, check PCA and redo analyses        | :heavy_check_mark:                    |
 | CEANS       | :heavy_check_mark: | :heavy_check_mark:        | :heavy_check_mark:        | :heavy_check_mark:  |
-| EPIC-NL     |                    |         |         |                     |
+| EPIC-NL     |                    | :heavy_check_mark:, check PCA and redo analyses        |  :x:       |   :x:                  |
 | Admin cohorts:                                                             |
-| Catalonia   | :heavy_check_mark: |         |         | :x:                 |
-| Greece      |                    |         |         |                     |
-| Rome        |                    |         |         |                     |
-| Switzerland |                    |         |         |                     |
-| SIMSAM      |                    |         |         |                     |
-| Netherlands |                    |         |         |                     |
+| Catalonia   | :heavy_check_mark: |  :x:, check PCA and do all the analyses       | :x:, check PCA and do all the analyses        | :heavy_check_mark:, but needs to check the results                 |
+| Greece      |  :heavy_check_mark:                  | :heavy_check_mark:, check PCA and redo analyses         |  :heavy_check_mark:, check PCA and redo analyses        |                     |
+| Rome        | :heavy_check_mark:                   |         |         |                     |
+| Switzerland | ?                   |         |   Not participating      |   :heavy_check_mark:                  |
+| SIMSAM      | ?                   |  :x:, check PCA and do all the analyses        |  :x: , check PCA and do all the analyses       |  :heavy_check_mark:                   |
+| Netherlands | ?                   |   :x: , check PCA and do all the analyses      |    :x: , check PCA and do all the analyses     |   :x: Do all the analyses                  |
 
 
 ## Getting Started
