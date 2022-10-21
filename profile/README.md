@@ -20,7 +20,7 @@ Below you can see which cohorts have provided the most up to date results for ea
 | Adult cohorts:                                                             |
 | KORA        | :heavy_check_mark: | :heavy_check_mark:, check PCA and redo analyses | :heavy_check_mark:, check PCA and redo analyses | :heavy_check_mark:                    |
 | CEANS       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| EPIC-NL     | ? | :heavy_check_mark:, check PCA and redo analyses |  :x:, check PCA and do all the analyses |   :x: |
+| EPIC-NL     | ? |  :x:, check PCA and redo analyses |  :x:, check PCA and do all the analyses |   :x: |
 | Admin cohorts:                                                             |
 | Catalonia   | :heavy_check_mark: |  :x:, check PCA and do all the analyses       | :x:, check PCA and do all the analyses        | :heavy_check_mark:, but needs to check the results|
 | Greece      |  :heavy_check_mark:| :heavy_check_mark:, check PCA and redo analyses |  :heavy_check_mark:, check PCA and redo analyses |  :heavy_check_mark:|
